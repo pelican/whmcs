@@ -4,7 +4,7 @@
 
 ## WHMCS
 
-WHMCS Module for the [Pelican Panel](https://github.com/pelican-dev/panel/).
+WHMCS Module for the [Pelican Panel](https://github.com/pelican/panel/).
 
 ## Configuration support
 
@@ -34,7 +34,7 @@ This module requires the panel to be on version 1.0.0 and above.
 
 ## Credits
 
-[Dane](https://github.com/DaneEveritt) and [everyone else](https://github.com/pelican-dev/panel/graphs/contributors) involved in development of the Pelican Panel.
+[Dane](https://github.com/DaneEveritt) and [everyone else](https://github.com/pelican/panel/graphs/contributors) involved in development of the Pelican Panel.
 [death-droid](https://github.com/death-droid) for the original WHMCS module.
 
 # FAQ
